@@ -3,25 +3,41 @@
 POPULAR - Popularidade
 
 Autor: Tiago Mota
-Uma escola est· promovendo uma eleiÁ„o de popularidade, para determinar, naturalmente, quem È o aluno mais popular. Foi definido, ent„o, que cada aluno dever· votar nos alunos de quem gosta. A quantidade de votos dados por cada aluno È vari·vel, isto È, cada aluno pode votar em quantos alunos desejar, de acordo com suas preferÍncias. O vencedor ser· aquele que receber mais votos, ou seja, aquele para o qual mais alunos indicaram que gostam dele.
+Uma escola est√° promovendo uma elei√ß√£o de popularidade, para determinar, naturalmente, quem √© o aluno mais popular. Foi definido, 
+ent√£o, que cada aluno dever√° votar nos alunos de quem gosta. A quantidade de votos dados por cada aluno √© vari√°vel, isto √©, 
+cada aluno pode votar em quantos alunos desejar, de acordo com suas prefer√™ncias. O vencedor ser√° aquele que receber mais votos,
+ou seja, aquele para o qual mais alunos indicaram que gostam dele.
 
-Para realizar a eleiÁ„o, cada aluno receber· uma cÈdula eleitoral contendo os nomes de todos os alunos da escola (inclusive ele prÛprio), na qual dever· preencher os quadrados ao lado dos nomes dos alunos que gosta, utilizando caneta esferogr·fica azul ou preta. ApÛs o tÈrmino do perÌodo de votaÁ„o, as cÈdulas ser„o colocadas numa m·quina, a qual È capaz de informar quais quadrados foram preenchidos em cada cÈdula.
+Para realizar a elei√ß√£o, cada aluno receber√° uma c√©dula eleitoral contendo os nomes de todos os alunos da escola 
+(inclusive ele pr√≥prio), na qual dever√° preencher os quadrados ao lado dos nomes dos alunos que gosta, utilizando caneta 
+esferogr√°fica azul ou preta. Ap√≥s o t√©rmino do per√≠odo de vota√ß√£o, as c√©dulas ser√£o colocadas numa m√°quina, a qual √© capaz de
+informar quais quadrados foram preenchidos em cada c√©dula.
 
-VocÍ, estagi·rio da escola em quest„o, ficou respons·vel por apresentar um protÛtipo do sistema que recebe as informaÁıes da m·quina e contabiliza os dados da eleiÁ„o. Por se tratar de um protÛtipo, sua tarefa È apenas escrever um programa que, dadas as informaÁıes sobre simulaÁıes de preenchimento das cÈdulas, informe quantos votos recebeu o vencedor da eleiÁ„o.
+Voc√™, estagi√°rio da escola em quest√£o, ficou respons√°vel por apresentar um prot√≥tipo do sistema que recebe as informa√ß√µes da m√°quina
+e contabiliza os dados da elei√ß√£o. Por se tratar de um prot√≥tipo, sua tarefa √© apenas escrever um programa que, dadas as informa√ß√µes
+sobre simula√ß√µes de preenchimento das c√©dulas, informe quantos votos recebeu o vencedor da elei√ß√£o.
 
-VocÍ pode assumir que os alunos da escola s„o participativos, de forma que todos compareceram ‡ votaÁ„o e cada um preencheu exatamente uma cÈdula eleitoral. VocÍ pode assumir, ainda, que os alunos n„o sofrem por conflitos internos, de modo que cada aluno gosta de si mesmo e vota em si mesmo. Note, porÈm, que a relaÁ„o ``gostar de'' n„o È simÈtrica, ou seja, se o aluno A gosta do aluno B, n„o necessariamente o aluno B gosta do aluno A.
+Voc√™ pode assumir que os alunos da escola s√£o participativos, de forma que todos compareceram √† vota√ß√£o e cada um preencheu
+exatamente uma c√©dula eleitoral. Voc√™ pode assumir, ainda, que os alunos n√£o sofrem por conflitos internos, de modo que cada
+aluno gosta de si mesmo e vota em si mesmo. Note, por√©m, que a rela√ß√£o ``gostar de'' n√£o √© sim√©trica, ou seja, se o aluno A gosta do
+aluno B, n√£o necessariamente o aluno B gosta do aluno A.
 
 Entrada
-A entrada È composta por v·rios casos de teste, cada um correspondendo a uma simulaÁ„o de eleiÁ„o.
+A entrada √© composta por v√°rios casos de teste, cada um correspondendo a uma simula√ß√£o de elei√ß√£o.
 
-A primeira linha de um caso de teste contÈm apenas um inteiro, n (1 <= n <= 100), indicando a quantidade de alunos da escola (identificados por inteiros de 1 a n) e, por conseq¸Íncia, a quantidade de cÈdulas preenchidas. A seguir h· n linhas, cada uma correspondendo a uma cÈdula processada.
+A primeira linha de um caso de teste cont√©m apenas um inteiro, n (1 <= n <= 100), indicando a quantidade de alunos da escola
+(identificados por inteiros de 1 a n) e, por conseq√º√™ncia, a quantidade de c√©dulas preenchidas. A seguir h√° n linhas, cada uma 
+correspondendo a uma c√©dula processada.
 
-Cada linha contÈm n inteiros, onde o j-Èsimo inteiro da i-Èsima linha È igual a 1, caso o j-Èsimo quadrado da cÈdula i esteja preenchido (ou seja, o aluno de identificador i votou no aluno de identificador j); ou È igual a 0, caso contr·rio (o aluno de identificador i n„o votou no aluno de identificador j).
+Cada linha cont√©m n inteiros, onde o j-√©simo inteiro da i-√©sima linha √© igual a 1, caso o j-√©simo quadrado da c√©dula i esteja 
+preenchido (ou seja, o aluno de identificador i votou no aluno de identificador j); ou √© igual a 0, caso contr√°rio (o aluno de 
+identificador i n√£o votou no aluno de identificador j).
 
 A entrada termina quando n = 0.
 
-SaÌda
-Para cada caso de teste, seu programa deve imprimir uma linha, contendo apenas um inteiro, correspondente ‡ quantidade de votos recebidos pelo vencedor da eleiÁ„o.
+Sa√≠da
+Para cada caso de teste, seu programa deve imprimir uma linha, contendo apenas um inteiro, correspondente √† quantidade de votos 
+recebidos pelo vencedor da elei√ß√£o.
 
 *****************************************************************************************************/
 
