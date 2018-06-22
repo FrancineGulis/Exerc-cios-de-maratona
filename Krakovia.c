@@ -1,16 +1,24 @@
 /******************************************************************************************
 
-KRAKOVIA - Krakóvia
+KRAKOVIA - KrakÃ³via
 
-Viktor mora em um país longíquo e frio, chamado Krakóvia, que está passando por tempos difíceis. Viktor trabalha em uma fábrica e após um dia de trabalho ele geralmente vai com alguns amigos a um bar, para beber algumas cervejas e sonhar com tempos melhores.
+Viktor mora em um paÃ­s longÃ­quo e frio, chamado KrakÃ³via, que estÃ¡ passando por tempos difÃ­ceis. Viktor trabalha em uma fÃ¡brica
+e apÃ³s um dia de trabalho ele geralmente vai com alguns amigos a um bar, para beber algumas cervejas e sonhar com tempos melhores.
 
-Devido a alguns problemas econômicos, a inflação está muito alta na Krakóvia e uma cerveja custa 5.400.000.000 dólares krakovianos. Por conta disso, é difícil conferir o valor da conta e dividi-lo igualmente entre Viktor e seus amigos. Como você tem um bom coração, você decidiu ajudá-los a solucionar esse problema.
+Devido a alguns problemas econÃ´micos, a inflaÃ§Ã£o estÃ¡ muito alta na KrakÃ³via e uma cerveja custa 5.400.000.000 dÃ³lares krakovianos.
+Por conta disso, Ã© difÃ­cil conferir o valor da conta e dividi-lo igualmente entre Viktor e seus amigos. Como vocÃª tem um bom coraÃ§Ã£o,
+vocÃª decidiu ajudÃ¡-los a solucionar esse problema.
 
 Entrada
-Haverá vários casos de teste, cada caso de teste começa com dois números 1 = N = 1000 que é o número de itens na conta e 1 = F = 20 que representa quantos amigos estão no bar e devem pagar a conta. Seguem N linhas, cada linha representa o valor de um item. O valor de um item é indicado por um inteiro 1 = V = 1020. A entrada é terminada por uma conta onde N = F = 0.
+HaverÃ¡ vÃ¡rios casos de teste, cada caso de teste comeÃ§a com dois nÃºmeros 1 â‰¤ N â‰¤ 1000 que Ã© o nÃºmero de itens na conta
+e 1 â‰¤ F â‰¤ 20 que representa quantos amigos estÃ£o no bar e devem pagar a conta. Seguem N linhas, cada linha representa o
+valor de um item. O valor de um item Ã© indicado por um inteiro 1 â‰¤ V â‰¤ 10^20. A entrada Ã© terminada por uma conta onde N = F = 0.
 
-Saída
-Para cada caso de teste você deve imprimir a mensagem: Bill #N costs S: each friend should pay P, onde N representa o número da conta, começando a partir de 1; S indica a soma dos itens da conta; e P é quanto dinheiro cada amigo deve pagar. Você deve calcular este valor dividindo o valor total da conta pelo número de amigos no bar, se o resultado não é um valor inteiro então imprima apenas a parte inteira do resultado, veja o exemplo de entrada/saída. Após cada caso de teste, você deve imprimir uma linha em branco.
+SaÃ­da
+Para cada caso de teste vocÃª deve imprimir a mensagem: Bill #N costs S: each friend should pay P, onde N representa o nÃºmero da conta,
+comeÃ§ando a partir de 1; S indica a soma dos itens da conta; e P Ã© quanto dinheiro cada amigo deve pagar. VocÃª deve calcular este valor
+dividindo o valor total da conta pelo nÃºmero de amigos no bar, se o resultado nÃ£o Ã© um valor inteiro entÃ£o imprima apenas a parte
+inteira do resultado, veja o exemplo de entrada/saÃ­da. ApÃ³s cada caso de teste, vocÃª deve imprimir uma linha em branco.
 
 *****************************************************************************************/
 
