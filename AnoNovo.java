@@ -1,3 +1,23 @@
+/**************************************************************
+ANONOVO - Ano Novo
+
+Hoje é 31 de dezembro, véspera de ano novo! Várias pessoas costumam comemorar esta data com fogos de artifício, champanhe, uvas, etc.
+
+Além disso, também é comum fazer uma contagem regressiva, em segundos, para a meia-noite. Assim, se a contagem começar, por exemplo, às 23:59:50, uma contagem de 10 segundos é feita: a sequência (10, 9, 8, ..., 2, 1, 0) é falada, um número por segundo. Ao término da sequência, será exatamente meia-noite, e o novo ano iniciará.
+
+Dado o horário de início da contagem regressiva, determine por quantos segundos ela deve durar.
+
+Entrada
+A entrada contém vários casos de teste. Cada caso de teste é descrito em uma linha contendo o horário de início da contagem, no formato hh:mm:ss (entre 00:00:00 e 23:59:59). Todos os números têm dois dígitos (com zero à esquerda, se necessário).
+
+A entrada termina com EOF.
+
+Saída
+Para cada caso de teste, imprima uma única linha, contendo a quantidade de segundos que a contagem deve durar.
+
+****************************************************************/
+
+
 
 import java.io.*;
 import java.util.StringTokenizer;
