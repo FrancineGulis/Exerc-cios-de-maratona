@@ -2,15 +2,25 @@
 
 ITMIHA - It-Miha
 
-No Egito antigo as construções das pirâmides são cercadas de muitos mistérios. Muitos pesquisadores consideram que a tecnologia necessária para construí-las não estava disponível na época, e suspeitam que os egípcios tiveram ajuda de extraterrestres para fazê-las. Um exemplo de um desses mistérios são os números de “It-miha”. Na província egípcia de It-miha foi encontrada uma pedra em que uma sequência de números estava gravada. Aparentemente os números não tinham qualquer ligação, até que Poincaré, no final do século XIX conjecturou que os números gravados naquela pedra eram os 500 primeiros inteiros livres de divisores quadrados perfeitos. Um quadrado perfeito é um número que possui raiz quadrada inteira, como 1, 4, 9, 16, 25, etc. Dizemos que um número é livre de divisores quadrados perfeitos se não for divisível por um quadrado perfeito maior que 1. Pode parecer simples para nós, hoje, determinar tais números, mas devemos pensar que naquela época, há mais de 3500 anos, mesmo o sistema de numeração utilizado era outro, e tornava qualquer conta muito difícil. Vale lembrar que os números de “It-miha” são muito frequentes nas construções das pirâmides. A base da pirâmide de Quéops, por exemplo é de 210 x 210 e sua altura 105 metros. Todas as dimensões são números de “It-miha”!!!
-Os primeiros dez números de “It-miha” são 1, 2, 3, 5, 6, 7, 10, 11, 13, 14. Sua tarefa neste exercícios será dado N determinar o N-ésimo número de “It-miha”.
+No Egito antigo as construÃ§Ãµes das pirÃ¢mides sÃ£o cercadas de muitos mistÃ©rios. Muitos pesquisadores consideram que a tecnologia 
+necessÃ¡ria para construÃ­-las nÃ£o estava disponÃ­vel na Ã©poca, e suspeitam que os egÃ­pcios tiveram ajuda de extraterrestres para 
+fazÃª-las. Um exemplo de um desses mistÃ©rios sÃ£o os nÃºmeros de â€œIt-mihaâ€. Na provÃ­ncia egÃ­pcia de It-miha foi encontrada uma pedra 
+em que uma sequÃªncia de nÃºmeros estava gravada. Aparentemente os nÃºmeros nÃ£o tinham qualquer ligaÃ§Ã£o, atÃ© que PoincarÃ©, no final 
+do sÃ©culo XIX conjecturou que os nÃºmeros gravados naquela pedra eram os 500 primeiros inteiros livres de divisores quadrados perfeitos.
+Um quadrado perfeito Ã© um nÃºmero que possui raiz quadrada inteira, como 1, 4, 9, 16, 25, etc. Dizemos que um nÃºmero Ã© livre de 
+divisores quadrados perfeitos se nÃ£o for divisÃ­vel por um quadrado perfeito maior que 1. Pode parecer simples para nÃ³s, hoje, 
+determinar tais nÃºmeros, mas devemos pensar que naquela Ã©poca, hÃ¡ mais de 3500 anos, mesmo o sistema de numeraÃ§Ã£o utilizado era outro,
+e tornava qualquer conta muito difÃ­cil. Vale lembrar que os nÃºmeros de â€œIt-mihaâ€ sÃ£o muito frequentes nas construÃ§Ãµes das pirÃ¢mides.
+A base da pirÃ¢mide de QuÃ©ops, por exemplo Ã© de 210 x 210 e sua altura 105 metros. Todas as dimensÃµes sÃ£o nÃºmeros de â€œIt-mihaâ€!!!
+Os primeiros dez nÃºmeros de â€œIt-mihaâ€ sÃ£o 1, 2, 3, 5, 6, 7, 10, 11, 13, 14. Sua tarefa neste exercÃ­cios serÃ¡ dado N determinar
+o N-Ã©simo nÃºmero de â€œIt-mihaâ€.
 
 Entrada
-A entrada é composta por diversas instâncias. A primeira linha da entrada contém um inteiro T indicando o número de instâncias.
-A primeira (e única) linha de cada instância contém um inteiro N, onde 1 = N = 20?000?000?000.
+A entrada Ã© composta por diversas instÃ¢ncias. A primeira linha da entrada contÃ©m um inteiro T indicando o nÃºmero de instÃ¢ncias.
+A primeira (e Ãºnica) linha de cada instÃ¢ncia contÃ©m um inteiro N, onde 1 = N = 20?000?000?000.
 
-Saída
-Para cada instância seu programa deve imprimir uma linha que contém o N-ésimo número livre de divisores quadrados perfeitos.
+SaÃ­da
+Para cada instÃ¢ncia seu programa deve imprimir uma linha que contÃ©m o N-Ã©simo nÃºmero livre de divisores quadrados perfeitos.
 
 *************************************************************************************/
 
