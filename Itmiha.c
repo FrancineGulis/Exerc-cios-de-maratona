@@ -17,7 +17,7 @@ o N-ésimo número de “It-miha”.
 
 Entrada
 A entrada é composta por diversas instâncias. A primeira linha da entrada contém um inteiro T indicando o número de instâncias.
-A primeira (e única) linha de cada instância contém um inteiro N, onde 1 = N = 20?000?000?000.
+A primeira (e única) linha de cada instância contém um inteiro N, onde  1 ≤ N ≤ 20 000 000 000.
 
 Saída
 Para cada instância seu programa deve imprimir uma linha que contém o N-ésimo número livre de divisores quadrados perfeitos.
