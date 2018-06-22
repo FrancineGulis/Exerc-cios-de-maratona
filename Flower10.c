@@ -1,25 +1,30 @@
 \****************************************************************************
 
-FLOWER10 - Flores florescem da França
+FLOWER10 - Flores florescem da FranÃ§a
 
-Fiona sempre amou poesia, e recentemente descobriu uma forma poética fascinante. Tautogramas são um caso especial de aliteração, que é a ocorrência da mesma letra no início de palavras adjacentes. Em particular, uma sentença é um tautograma se todas suas palavras começam com a mesma letra.
+Fiona sempre amou poesia, e recentemente descobriu uma forma poÃ©tica fascinante. Tautogramas sÃ£o um caso especial de aliteraÃ§Ã£o, 
+que Ã© a ocorrÃªncia da mesma letra no inÃ­cio de palavras adjacentes. Em particular, uma sentenÃ§a Ã© um tautograma se todas suas 
+palavras comeÃ§am com a mesma letra.
 
-Por exemplo, as seguintes sentenças são tautogramas:
+Por exemplo, as seguintes sentenÃ§as sÃ£o tautogramas:
 
 Flowers Flourish from France
 Sam Simmonds speaks softly
 Peter pIckEd pePPers
 truly tautograms triumph
 
-Fiona quer deslumbrar seu namorado com uma carta romântica repleta desse tipo de sentenças. Por favor, ajude Fiona a verificar se cada sentença que ela escreveu é um tautograma ou não.
+Fiona quer deslumbrar seu namorado com uma carta romÃ¢ntica repleta desse tipo de sentenÃ§as. Por favor, ajude Fiona a verificar
+se cada sentenÃ§a que ela escreveu Ã© um tautograma ou nÃ£o.
 
 Entrada
-Cada caso de teste é dado em uma única linha que contém uma frase. Uma frase consiste de uma sequência de no máximo 50 palavras separadas por espaços simples. Uma palavra é uma sequência de no máximo 20 letras do alfabeto inglês (maiúsculas e minúsculas). Uma palavra contém ao menos uma letra e uma sentença contém ao menos uma palavra.
+Cada caso de teste Ã© dado em uma Ãºnica linha que contÃ©m uma frase. Uma frase consiste de uma sequÃªncia de no mÃ¡ximo 50 palavras
+separadas por espaÃ§os simples. Uma palavra Ã© uma sequÃªncia de no mÃ¡ximo 20 letras do alfabeto inglÃªs (maiÃºsculas e minÃºsculas).
+Uma palavra contÃ©m ao menos uma letra e uma sentenÃ§a contÃ©m ao menos uma palavra.
 
-O último caso de teste é seguido de uma linha contendo apenas o caractere '*' (asterisco).
+O Ãºltimo caso de teste Ã© seguido de uma linha contendo apenas o caractere '*' (asterisco).
 
-Saída
-Para cada caso de teste, imprima uma única linha contendo o caractere 'Y' se a sentença é um tautograma, ou um 'N' caso contrário.
+SaÃ­da
+Para cada caso de teste, imprima uma Ãºnica linha contendo o caractere 'Y' se a sentenÃ§a Ã© um tautograma, ou um 'N' caso contrÃ¡rio.
 
 ***************************************************************************/
 
